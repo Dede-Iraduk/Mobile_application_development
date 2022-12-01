@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SomaSana1</string>
+    <string name="somasana">SomaSana</string>
+    <string name="goback">Go Back</string>
+    <string name="mynotes1">Notes 1</string>
+    <string name="mynotes2">Notes 2</string>
+    <string name="myassignments1">Assignment 1</string>
+    <string name="myassignments2">Assignment 2</string>
+    <string name="notification1">Math assignment 1</string>
+    <string name="notification2">Math Quiz due tomorrow</string>
+    <string name="notification3">Math notes updated</string>
+    <string name="notification4">Math CAT is tomorrow</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
